@@ -1,4 +1,12 @@
-﻿using System;
+﻿//|---------------------------------------------------------------|
+//|                         AZURE EVENT HUB                       |
+//|---------------------------------------------------------------|
+//|                       Developed by Wonde Tadesse              |
+//|                             Copyright ©2017 - Present         |
+//|---------------------------------------------------------------|
+//|                         AZURE EVENT HUB                       |
+//|---------------------------------------------------------------|
+using System;
 using System.Collections.Generic;
 using System.Configuration;
 using System.Linq;
